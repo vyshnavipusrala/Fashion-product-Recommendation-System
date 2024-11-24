@@ -4,13 +4,19 @@ A visual-based recommendation system using ResNet50 for fashion products. It rec
 
 ## Features
 VisualSimilarity: Recommends similar products based on input image.
+
 ResNet50: Uses pre-trained ResNet50 for feature extraction.
+
 NearestNeighbors: Finds visually similar products.
+
 Scalable: Efficient for large datasets.
 ## Technologies
 Keras: For deep learning.
+
 ScikitLearn: For NearestNeighbors.
+
 Pickle: For saving features.
+
 NumPy: For numerical operations.
  
 ## Dataset
