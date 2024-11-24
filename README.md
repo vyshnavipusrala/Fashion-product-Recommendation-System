@@ -25,6 +25,9 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small/code
 
 ## How it Works
 DataPreprocessing: Resize and normalize images.
+
 FeatureExtraction: Extract features using ResNet50.
+
 SimilaritySearch: Find k-nearest neighbors.
+
 Recommendations: Return similar products.
